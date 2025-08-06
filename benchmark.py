@@ -34,7 +34,7 @@ def chat_with_model(prompt):
     print(f"Timer {end - start:0.4f} seconds")
     return response.json()
     except Exeption as e:
-            print(e)
+            print("Error")
         
 
 lines = read_file('prompts.txt')
