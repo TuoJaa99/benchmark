@@ -1,7 +1,6 @@
-rivi1 
-rivi2 
-rivi3 
-rivi4 
-rivi5 
-rivi6 
+what is the capital of finland?
+
+what is the difference between c and c++?
+
+how many stars are in our galaxy?
 
